@@ -5,8 +5,9 @@
  */
 
 // API Endpoints
-const API_BASE = '/api/employees';
-const DEPT_API = '/api/departments';
+const BACKEND_URL = 'https://weintern-week-2-task-2-backend.onrender.com';
+const API_BASE = `${BACKEND_URL}/api/employees`;
+const DEPT_API = `${BACKEND_URL}/api/departments`;
 
 // Application State
 const state = {
