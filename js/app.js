@@ -66,6 +66,7 @@ const DOM = {
   employeeForm: document.getElementById('employeeForm'),
   modalTitle: document.getElementById('modalTitle'),
   modalSubtitle: document.getElementById('modalSubtitle'),
+  saveEmployeeBtn: document.getElementById('saveEmployeeBtn'),
   saveBtnText: document.getElementById('saveBtnText'),
   saveSpinner: document.getElementById('saveSpinner'),
 
